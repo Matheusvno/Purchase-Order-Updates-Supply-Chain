@@ -2,6 +2,7 @@
 
 O robô tem como objetivo completar os dados de uma série de pedidos de compra, para isso ele deve:<br>
 
+<ol>
 <li>
 Acessar e logar no site https://developer.automationanywhere.com/challenges/AutomationAnywhereLabs-POTrackingLogin.html;
 </li>
@@ -14,3 +15,4 @@ Utilizando como base os dados da tabela, descobrir quem é o o agente atribuido;
 <li>
 Inserir os dados restantes no sistema ("Ship Date", "Order Total", "Assigned Agent");
 </li>
+</ol>
